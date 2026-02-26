@@ -1,0 +1,5 @@
+{
+  "name": "MIXER",
+  "description": "Deep research and execution in the AI platform space.",
+  "requestFramePermissions": ["geolocation"]
+}
