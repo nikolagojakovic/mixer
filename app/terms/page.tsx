@@ -112,7 +112,7 @@ export default function TermsPage() {
           If you have any questions about these Terms or the Service, you can contact us at:
         </p>
         <p className="mt-1 font-mono text-xs break-all">
-          your-email@example.com
+          luka@mixer86.com or nikola@mixer86.com
         </p>
       </section>
     </main>
